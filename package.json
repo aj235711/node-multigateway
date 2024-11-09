@@ -1,0 +1,22 @@
+{
+  "name": "node-multigateway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aj235711/node-multigateway.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Amir Javed",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/aj235711/node-multigateway/issues"
+  },
+  "homepage": "https://github.com/aj235711/node-multigateway#readme"
+}
